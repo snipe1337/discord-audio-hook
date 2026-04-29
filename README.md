@@ -51,6 +51,10 @@ run it
 enter gain
 done
 
+## notice
+
+from now, never buy loudmicing shit from discord skids as they clearly dont know what they are talking about. 
+
 ## requirements
 
 * python 3
