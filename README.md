@@ -1,5 +1,9 @@
 # ryze gain control
 
+![Stars](https://img.shields.io/github/stars/snipe1337/discord-audio-hook)
+![Forks](https://img.shields.io/github/forks/snipe1337/discord-audio-hook)
+![Contributors](https://contrib.rocks/image?repo=snipe1337/discord-audio-hook)
+
 join: [discord](https://discord.gg/unimaginable)
 
 people said audio hooks in python/js weren’t possible
