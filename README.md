@@ -3,9 +3,13 @@
 join: [discord](https://discord.gg/unimaginable)
 
 people said audio hooks in python/js weren’t possible
-said it had to be native, called me a clown just for even trying
+said it had to be native, called me a clown
 
 so yeah, here’s the result
+
+## important
+
+from now, never buy loudmicing shit from discord skids as they clearly dont know what they are talking about. 
 
 ## what this is
 
@@ -50,10 +54,6 @@ so now it’s public
 run it
 enter gain
 done
-
-## notice
-
-from now, never buy loudmicing shit from discord skids as they clearly dont know what they are talking about. 
 
 ## requirements
 
